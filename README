@@ -1,4 +1,6 @@
-What is Network in a PC Web GUI
+# This is fixed version of NipC software for Yate-BTS compatable with the last PHP
+
+##What is Network in a PC Web GUI
 --------------------------------
 
 A Graphical Web Interface used to create configurations files for YateBTS.
